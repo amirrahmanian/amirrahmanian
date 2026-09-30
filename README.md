@@ -20,7 +20,7 @@ Languages and Tools
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,nestjs,expressjs,postgres,mongodb,typescript,javascript,css,html,linux,postman " />
+    <img src="https://skillicons.dev/icons?i=git,postgres,mongodb,css,html,linux,postman " />
   </a>
 </p>
 
